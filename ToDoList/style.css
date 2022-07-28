@@ -1,0 +1,41 @@
+*{
+    font-family: "Rimouski";
+}
+body
+{
+    background-color: #dcd7e0;
+}
+.tasker{
+    width: 400px;  
+    height: 500px;  
+    background-color: rgb(172, 241, 241);
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding-bottom : 50px;
+}
+.error {
+    display: none;
+    background: rgba(237, 28, 36, 0.7);
+    color: #fff;
+    padding: 14px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+#input-task
+{
+    margin: 20px;
+    width: 250px;
+}
+
+
+.tasker-body 
+{
+	
+		display: block;
+		position: relative;
+		border-bottom: 10px solid rgba(0, 0, 0, 0.1);
+}
+		
